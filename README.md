@@ -13,7 +13,7 @@ Afterwards, go to drive.google.com and upload the file onto your drive by pressi
 ![image](https://github.com/user-attachments/assets/44553c8f-ca3a-496f-b92c-a530e0c3e4eb)
 
 
-Third, Open the Game_Predictor_Beta.ipynb in colab.google.com 
+Third, Open the Game_Predictor_Beta.ipynb in colab.google.com.
 
 ![image](https://github.com/user-attachments/assets/216a50a2-86f6-404f-b3cc-cd4045cda0c8)
 
@@ -21,7 +21,7 @@ Make a copy of the project in your drive using "File" and then clicking, "Save a
 
 ![image](https://github.com/user-attachments/assets/889c4724-694c-46ad-9d0e-a57954f1448b)
 
-After opening the new copy, pres the folder icon directly under the Google Colab Logo and click the third logo above the folders
+After opening the new copy, pres the folder icon directly under the Google Colab Logo and click the third logo above the folders.
 
 ![image](https://github.com/user-attachments/assets/15b50dfc-2702-42a3-8188-2076abc8ed6a)
 
