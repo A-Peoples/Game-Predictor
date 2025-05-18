@@ -1,6 +1,3 @@
-# Game-Predictor
-This is a Game predictor using Sports Reference. This project uses 
-
 # How to Use the Project:
 
 In order to use this tools, you will need a Google Account and access to Google Drive.
