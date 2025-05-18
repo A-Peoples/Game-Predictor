@@ -12,6 +12,7 @@ Afterwards, go to drive.google.com and upload the file onto your drive by pressi
 
 ![image](https://github.com/user-attachments/assets/44553c8f-ca3a-496f-b92c-a530e0c3e4eb)
 
+
 Third, Open the Game_Predictor_Beta.ipynb in colab.google.com 
 ![image](https://github.com/user-attachments/assets/216a50a2-86f6-404f-b3cc-cd4045cda0c8)
 
